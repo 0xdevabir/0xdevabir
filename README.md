@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2023-2024 Goals: Web3, Solidity, Golang, Dart+Flutter, Kotlin, and Swift.
 - ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies.
-- 📫 Reach me at **abir573912@gmail.com**
+- 📫 Reach me at **devabir.me@gmail.com**
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifpro&label=Profile%20views&color=0e75b6&style=flat" alt="arifpro" /> </p> 
 <br />
@@ -101,8 +101,8 @@
 ---
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=abir-ux&count_private=true&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000)](https://github.com/abir-ux)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abir-ux&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=0xdevabir&count_private=true&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000)](https://github.com/abir-ux)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xdevabir&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
 
