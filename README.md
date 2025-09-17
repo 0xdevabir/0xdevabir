@@ -108,6 +108,6 @@
 
 <h2 align="center">Visitor Count</h2>
 <p align="center">
-  <img align="center" alt="abir.webnest.app" width="40%" src="https://hits.sh/github.com/0xdevabir.svg?style=for-the-badge&label=VISITOR%20COUNT&color=000000&labelColor=ffffff"/>
+  <img align="center" alt="abir.webnest.app" width="40%" src="https://hits.sh/github.com/0xdevabir.svg?style=for-the-badge&label=VISITOR%20COUNT&color=000000&labelColor=000000"/>
 
 </p>
