@@ -108,6 +108,6 @@
 
 <h2 align="center">Visitor Count</h2>
 <p align="center">
-  <img align="center" alt="abir.webnest.app" width="40%" src="![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)"/>
+  <img align="center" alt="abir.webnest.app" width="40%" src="https://profile-counter.glitch.me/0xdevabir/count.svg"/>
 
 </p>
