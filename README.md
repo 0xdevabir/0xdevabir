@@ -105,7 +105,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xdevabir&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
-
+---
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=0xdevabir&theme=react-dark&hide_border=true&area=true)](https://github.com/0xdevabir)
 
 
