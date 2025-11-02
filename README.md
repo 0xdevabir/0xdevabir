@@ -2,10 +2,10 @@
 <h3 align="center">"Hey there! I'm Abir, a dedicated and passionate student with a strong interest in programming and web development.</h3>
 
 - 👨‍💻 My portfolio website [[abir.webnest.app](https://abir.webnest.app/)].
-- 📝 I write articles on [[]()].
+<!--- 📝 I write articles on [[]()]. -->
 - 🌱 I’m currently working with ReactJs, NextJs, VueJs, NodeJs, AWS, React Native.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2023-2024 Goals: Web3, Solidity, Golang, Dart+Flutter, Kotlin, and Swift.
+- 👯 I’m looking to collaborate with other developer.
+- 🥅 2025-2026 Goals: Web3, Solidity, Golang, Dart+Flutter, Kotlin, and Swift.
 - ⚡ Fun fact: I love coding, exploring new things, reading docs, and watching movies.
 - 📫 Reach me at **devabir.me@gmail.com**
 
@@ -105,6 +105,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xdevabir&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
+
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=0xdevabir&theme=react-dark&hide_border=true&area=true)](https://github.com/0xdevabir)
+
 
 <h2 align="center">Visitor Count</h2>
 <p align="center">
