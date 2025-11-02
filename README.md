@@ -101,11 +101,11 @@
 ---
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=0xdevabir&count_private=true&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000)](https://github.com/abir-ux)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=0xdevabir&count_private=true&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000)](https://github.com/0xdevabir)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xdevabir&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
----
+
 
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=0xdevabir&theme=react-dark&hide_border=true&area=true)](https://github.com/0xdevabir)
 
