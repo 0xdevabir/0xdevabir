@@ -43,7 +43,7 @@ A passionate Web Developer focused on building clean, modern, and scalable appli
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="center" width="full">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xdevabir&theme=react" />
 </p>
 
@@ -53,11 +53,6 @@ A passionate Web Developer focused on building clean, modern, and scalable appli
 </p>
 
 
-### 🧠 Development Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xdevabir&theme=react&utcOffset=6" />
-</p>
 
 
 
