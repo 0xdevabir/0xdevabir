@@ -4,9 +4,9 @@ A passionate Web Developer focused on building clean, modern, and scalable appli
 </h3>
 
 <p align="center">
-  <a href="https://abir.webnest.app" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:devabir.me@gmail.com">📧 Email</a> •
-  <a href="https://github.com/0xdevabir">💻 GitHub</a>
+  <a href="https://abir.webnest.app" target="_blank"> Portfolio </a> •
+  <a href="mailto:devabir.me@gmail.com"> Email </a> •
+  <a href="https://www.linkedin.com/in/devabir"> Linkedin </a>
 </p>
 
 ---
