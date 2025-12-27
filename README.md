@@ -36,7 +36,7 @@ A passionate Web Developer focused on building clean, modern, and scalable appli
 
 #### Mobile & Other
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,figma,reactnative" />
+  <img src="https://skillicons.dev/icons?i=java,python,figma,reactNative" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ A passionate Web Developer focused on building clean, modern, and scalable appli
 
 ---
 
-### 📈 Contribution Activity
+
 
 <p align="center">
   <img 
