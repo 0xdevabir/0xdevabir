@@ -53,9 +53,11 @@ A passionate Web Developer focused on building clean, modern, and scalable appli
 </p>
 
 
-### 🔥 GitHub Streak
+### 🧠 Development Activity
 
-<img src="https://streak-stats.demolab.com?user=0xdevabir&theme=react&hide_border=true" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xdevabir&theme=react&utcOffset=6" />
+</p>
 
 
 
