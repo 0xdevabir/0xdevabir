@@ -36,18 +36,18 @@ A passionate Web Developer focused on building clean, modern, and scalable appli
 
 #### Mobile & Other
 <p>
-  <img src="https://skillicons.dev/icons?i=reactnative,java,python,figma" />
+  <img src="https://skillicons.dev/icons?i=java,python,figma,reactnative" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center" width="full">
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xdevabir&theme=react" />
 </p>
 
-<p align="center" width="full">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xdevabir&theme=react" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xdevabir&theme=react" />
 </p>
