@@ -71,7 +71,6 @@ A passionate Web Developer focused on building clean, modern, and scalable appli
 
 ---
 
-### 👀 Visitor Count
 
 <p align="center">
   <img 
