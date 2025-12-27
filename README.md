@@ -53,6 +53,17 @@ A passionate Web Developer focused on building clean, modern, and scalable appli
 </p>
 
 
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats-git-main-davids-projects.vercel.app/?user=0xdevabir&theme=react&hide_border=true" 
+    alt="GitHub Streak"
+  />
+</p>
+
+
+
 
 ---
 
