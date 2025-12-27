@@ -45,14 +45,15 @@ A passionate Web Developer focused on building clean, modern, and scalable appli
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=0xdevabir&show_icons=true&theme=react&hide_border=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0xdevabir&show_icons=true&theme=react&hide_border=true" 
     height="170"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=0xdevabir&theme=react&hide_border=true" 
+    src="https://github-readme-streak-stats-git-main-davids-projects.vercel.app/?user=0xdevabir&theme=react&hide_border=true" 
     height="170"
   />
 </p>
+
 
 ---
 
