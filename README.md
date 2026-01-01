@@ -43,14 +43,6 @@ A passionate Web Developer focused on building clean, modern, and scalable appli
 
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xdevabir&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xdevabir&theme=react" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xdevabir&theme=react" />
-</p>
 
 
 
