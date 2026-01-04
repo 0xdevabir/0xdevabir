@@ -4,9 +4,8 @@ A passionate Web Developer focused on building clean, modern, and scalable appli
 </h3>
 
 
----
 
-### 👨‍💻 About Me
+
 
 - 🎓 Student & self-taught developer  
 - 💻 Working mainly with **Next.js & React**
