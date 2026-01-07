@@ -31,6 +31,14 @@ A passionate Web Developer focused on building clean, modern, and scalable appli
 
 
 
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=0xdevabir&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
+
+
+
+
+
 
 
 
