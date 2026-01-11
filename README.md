@@ -34,8 +34,6 @@ A passionate Web Developer focused on building clean, modern, and scalable appli
 
 
 
-
-
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=0xdevabir&theme=react-dark&hide_border=true&area=true" 
