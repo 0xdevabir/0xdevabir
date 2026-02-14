@@ -18,9 +18,9 @@ A passionate Web Developer focused on building clean, modern, and scalable appli
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,vue" />
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
-  <img src="https://skillicons.dev/icons?i=java,python,figma,reactnative" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,figma,reactnative" />
 </p>
 
 
