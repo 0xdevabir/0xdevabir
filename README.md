@@ -1,55 +1,74 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Md Abir Hossain</h1>
 
-# Md Abir Hossain
-### Full Stack Software Engineer
+<h3 align="center">
+Full Stack Software Engineer building scalable, modern, and user-focused applications
+</h3>
 
-Building clean, scalable web applications with modern JavaScript tooling — currently deepening my skills in Web3 and cloud infrastructure.
+<br>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
-<a href="mailto:YOUR-EMAIL@example.com">Email</a> ·
-<a href="https://YOUR-PORTFOLIO.com">Portfolio</a>
+<p align="center">
+  I specialize in building full-stack applications with modern web technologies,
+  clean architecture, and scalable backend systems.
+</p>
 
-</div>
+<br>
 
-<br/>
+- 🎓 Computer Science & Engineering student and software developer  
+- 💻 Building full-stack applications with **Next.js, React, Node.js & TypeScript**
+- ⚙️ Exploring **Backend Engineering, System Design, Cloud & AI-powered applications**
+- 🚀 Passionate about creating scalable products and solving real-world problems
+- 🤝 Open to collaborating on impactful projects and open-source contributions
+- 🎯 **2026 Goals:** Master Backend Engineering, Golang, Cloud Infrastructure & System Design
+- ⚡ Fun fact: I enjoy reading official documentation more than watching tutorials
 
-## About
+---
 
-I'm a self-taught full stack engineer focused on the **React / Next.js** ecosystem, building products end-to-end — from database schema to deployed UI. I care about clean architecture, readable code, and shipping things that work.
+### 🛠️ Tech Stack
 
-Currently expanding into **Web3 (Solidity)**, **cloud infrastructure**, and **mobile development** (Flutter, Kotlin, Swift) as part of my 2025–2026 learning goals.
+<p align="center">
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs" />
 
-## Tech Stack
+<br>
 
-**Languages** — JavaScript, TypeScript, Python, Solidity
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
 
-**Frontend** — React, Next.js, Tailwind CSS, HTML/CSS
+<br>
 
-**Backend** — Node.js, Express, REST APIs
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,cloudflare" />
 
-**Database** — MongoDB, PostgreSQL
+<br>
 
-**Tools** — Git, Docker, Vercel, Figma
+<img src="https://skillicons.dev/icons?i=python,go,figma" />
 
-<br/>
+</p>
 
-## GitHub Stats
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xdevabir&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdevabir&layout=compact&theme=default&hide_border=true" />
-</div>
 
-<br/>
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=0xdevabir&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 
-## Let's Connect
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=0xdevabir&theme=react-dark&hide_border=true&area=true" 
+    width="100%"
+  />
+</p>
 
-</div>
+---
+
+
+<p align="center">
+  <img 
+    src="https://hits.sh/github.com/0xdevabir.svg?style=for-the-badge&label=Visitors&color=000000&labelColor=000000" 
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>"Built from sleepless nights, quiet hopes, and a heart that won’t give up"</i>
+</p>
