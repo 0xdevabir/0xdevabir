@@ -1,55 +1,125 @@
 <h1 align="center">Hi 👋, I'm Md Abir Hossain</h1>
+
 <h3 align="center">
-A passionate Web Developer focused on building clean, modern, and scalable applications
+Building scalable web applications • Learning backend engineering • Exploring AI & Cloud
 </h3>
 
-
-
-- 🎓 Student & self-taught developer  
-- 💻 Working mainly with **Next.js & React**
-- 🌱 Exploring **Web3, Solidity & Cloud**
-- 🤝 Open to collaborating with other developers
-- 🎯 **2025–2026 Goals:** Web3, Solidity, Golang, Flutter, Kotlin, Swift
-- ⚡ Fun fact: I enjoy reading docs more than tutorials
+<p align="center">
+  <a href="https://github.com/0xdevabir">
+    <img src="https://komarev.com/ghpvc/?username=0xdevabir&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
+I'm a Computer Science student and software developer from Bangladesh passionate about building modern, scalable, and user-focused applications.
+
+I enjoy turning ideas into products while continuously learning software engineering, backend architecture, cloud technologies, and AI.
+
+- 🎓 CSE Student at **Daffodil International University**
+- 💼 Building production-ready full-stack applications
+- 🌱 Currently learning **Node.js, System Design, Cloud & AI**
+- ⚡ Frontend-first developer moving toward Backend Engineering
+- 🤝 Always open to collaborating on meaningful open-source projects
+- 📚 I prefer reading official documentation over watching tutorials
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs" />
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
-  <img src="https://skillicons.dev/icons?i=python,figma,reactnative" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs" />
 </p>
 
+### Backend
 
-
-
-<p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=0xdevabir&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
+### Tools & Technologies
 
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=0xdevabir&theme=react-dark&hide_border=true&area=true" 
-    width="100%"
-  />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,cloudflare,linux" />
 </p>
 
----
+### Currently Learning
 
-
-<p align="center">
-  <img 
-    src="https://hits.sh/github.com/0xdevabir.svg?style=for-the-badge&label=Visitors&color=000000&labelColor=000000" 
-  />
+<p>
+<img src="https://skillicons.dev/icons?i=go,docker,aws,python" />
 </p>
 
 ---
 
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🚗 **ParkBD** | Smart parking management platform |
+| 🎓 **CampusFlow** | Modern university management system |
+| 🏢 **DealerCore** | Dealer & inventory management platform |
+| 💰 **Khroch** | Personal finance tracker |
+| ✈️ **Planova** | AI-powered travel planning application |
+
+---
+
+## 📈 GitHub Analytics
+
 <p align="center">
-  <i>"Built from sleepless nights, quiet hopes, and a heart that won’t give up"</i>
+<img src="https://yourinsights.vercel.app/api/insight?username=0xdevabir&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xdevabir&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Become a strong Backend Engineer
+- ✅ Master Node.js & Express
+- ✅ Learn Golang
+- ✅ Learn System Design
+- ✅ Cloud (AWS & Cloudflare)
+- ✅ Build AI-powered SaaS products
+- ✅ Contribute to Open Source
+- ✅ Solve 500+ DSA problems
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://github.com/0xdevabir">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://hits.sh/github.com/0xdevabir.svg?style=for-the-badge&label=Visitors&color=000000&labelColor=000000"/>
+</p>
+
+---
+
+<p align="center">
+<i>"Great software isn't built in a day—it's built one commit at a time."</i>
 </p>
