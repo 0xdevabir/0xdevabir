@@ -45,20 +45,22 @@ Full Stack Software Engineer building scalable, modern, and user-focused applica
 
 
 
+
+
+---
+
+
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=0xdevabir&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <img src="https://mystate.devabir.me/api/stats?username=0xdevabir&template=pro-dashboard&theme=glass" width="100%" alt="My GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://mystate.devabir.me/api/stats?username=0xdevabir&template=compact-strip&theme=glass" width="100%" alt="My GitHub Stats" />
 </p>
 
 
 
 
 
-![MyState](https://mystate.devabir.me/api/stats?username=0xdevabir&template=stats-grid&theme=dark)
-
-
-<p align="center">
-  <img src="https://mystate.devabir.me/api/stats?username=0xdevabir&template=pro-dashboard&theme=dark" width="100%" alt="My GitHub Stats" />
-</p>
 
 
 
@@ -66,16 +68,6 @@ Full Stack Software Engineer building scalable, modern, and user-focused applica
 
 
 
-
-
-
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=0xdevabir&theme=react-dark&hide_border=true&area=true" 
-    width="100%"
-  />
-</p>
 
 ---
 
